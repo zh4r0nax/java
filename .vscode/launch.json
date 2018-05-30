@@ -6,12 +6,12 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Debug (Launch)-Suma",
+            "name": "Debug (Launch)-Operatorias",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopOnEntry": false,
-            "mainClass": "Suma",
+            "mainClass": "Operatorias",
             "args": ""
         },
         {
