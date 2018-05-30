@@ -1,5 +1,11 @@
 public class Suma{
 	public static void main(String args[]){
-		System.out.println("asd");
+		int numero_uno = 5;
+		int numero_dos = 2;
+		int resultado = 0;
+
+		resultado = numero_uno + numero_dos;
+
+		System.out.println("El resultado es:: " + resultado);
 	}
 }
