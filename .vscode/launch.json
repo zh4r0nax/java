@@ -6,12 +6,12 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Debug (Launch)-Teclado",
+            "name": "Debug (Launch)-Operadores",
             "request": "launch",
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
             "stopOnEntry": false,
-            "mainClass": "Teclado",
+            "mainClass": "Operadores",
             "args": ""
         },
         {
